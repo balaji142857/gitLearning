@@ -4,7 +4,6 @@ This project is to understand GIT by practicing it
 Basics
 ------
 git init
-explore .git
 add a file to stage
 add all files stage
 commit
@@ -21,7 +20,7 @@ revert the commit
 add new files with one line data
 commit
 ammend the commit
-explore .git
+
 
 Branching
 ---------
@@ -65,9 +64,10 @@ merge the commits
 repeat the same using pull this time
 repeat the above two with conflicting commits in the local branch
 
+Misc
+--------
 explore .git
-
---try out stashing when switching branches
+try out stashing when switching branches
 
 
 Debugging
