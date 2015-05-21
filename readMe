@@ -1,6 +1,8 @@
 This project is to understand GIT by practicing it
+==================================================
 
-
+Basics
+------
 git init
 explore .git
 add a file to stage
@@ -21,6 +23,8 @@ commit
 ammend the commit
 explore .git
 
+Branching
+---------
 --simple(prodFix)
 create a bracnch
 add a commit to new branch alone
@@ -46,7 +50,8 @@ merge the new branch with master
 retain the new branch
 
 
-
+Remote Branches
+---------------
 create github branch
 commit to it
 create a new local repo by checkout from the github
@@ -65,5 +70,6 @@ explore .git
 --try out stashing when switching branches
 
 
-
+Debugging
+-----------
 view log -> one line , after a date, before a date,by author
